@@ -1,0 +1,5 @@
+n = str(input())
+n1 = (n[0])
+n2 = (n[1])
+n3 = (n[3])
+print(n1 + n2 + n3)
